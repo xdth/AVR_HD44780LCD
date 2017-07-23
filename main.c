@@ -10,6 +10,6 @@
 int main(void) {
   lcd_init(LCD_DISP_ON);
   lcd_clrscr();
-  lcd_puts("   attiny2313\n");
-  lcd_puts("  dthlabs.com");
+  lcd_puts("   dthlabs.com\n");
+  lcd_puts("    tech blog");
 }
